@@ -1,0 +1,6 @@
+Tata,IATA,ICAO,Call sign,frequent flyer,alliance,washington,WA,01,tata.com
+Wipro,IATA,ICAO,Call sign,frequent flyer,alliance,Goa,GA,02,wipro.com
+Infosys,IATA,ICAO,Call sign,frequent flyer,alliance,High tower,HI,03,infosys.com
+Prodapt,IATA,ICAO,Call sign,frequent flyer,alliance,New York,NY,04,prodapt.com
+Iprime,IATA,ICAO,Call sign,frequent flyer,alliance,Italy,IL,05,iprime.com
+Accenture,IATA,ICAO,Call sign,frequent flyer,alliance,Chennai,other,06,accenture.com
